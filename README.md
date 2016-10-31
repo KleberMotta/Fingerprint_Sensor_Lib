@@ -2,7 +2,7 @@
   Welcome to the Finger Print Lib that will help you to use External DataBase in your projetcs,
   And simplify the process of extracting data for any possible reason you may want.
 
-  This is an Arduino Finger Print Library for modules such as FPM10A, ZMP20, R3XX.
+  This is an Arduino Finger Print Library for modules such as FPM10A, ZFM20, R3XX.
   It has support for any Finger Print Sensor that the famous Adafruit_Fingerprint lib has.
   It was made for developers seeking an easy implementation for more complex projects, 
   providing sample Sketchs that will help you with some "real life" implementations.
