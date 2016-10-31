@@ -1,4 +1,4 @@
-/****************************************************************************
+
   This library was made for developers seeking an easy implementation of
   any generical fingerprint optical sensor listed in the comaptibility list
   of the read me file.
@@ -15,4 +15,4 @@
 
   If you downloaded this lib from an external souce, please come visit the original link
   of its repository on my GitHUb -->https://github.com/KleberMotta/Fingerprint_Sensor_Lib/
-****************************************************************************/
+
