@@ -21,5 +21,5 @@
 
   If you downloaded this lib from an external source, please come visit the original link
   of its repository on my GitHub -->https://github.com/KleberMotta/Fingerprint_Sensor_Lib
-  Hopefully you'll more cool stuff there and give me a job, seriously I need a job :P
+  
 
