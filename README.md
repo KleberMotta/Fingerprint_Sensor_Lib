@@ -17,7 +17,6 @@
   And reliable examples I hope this helps someone. 
 
   Many thanks to Brian Ejike, this guy helped me with his article here -->https://futoedu.academia.edu/BrianEjike
-  And even replyied my messages about some doubts I had.
 
   If you downloaded this lib from an external source, please come visit the original link
   of its repository on my GitHub -->https://github.com/KleberMotta/Fingerprint_Sensor_Lib
